@@ -1,0 +1,8 @@
+{
+    "id": "rosie.plumpy",
+    "name": "Plumpy",
+    "description": "Fluffy, bubbly, plumpy!",
+    "type": "github",
+    "bundle": "https://github.com/unbound-mod/icons/tree/main/packs/Plumpy",
+    "version": "1.0.0"
+}

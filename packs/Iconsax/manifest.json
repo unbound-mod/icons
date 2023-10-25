@@ -1,0 +1,8 @@
+{
+    "id": "rosie.iconsax",
+    "name": "Iconsax",
+    "description": "Perfectly balanced and sleek icons, designed for the modern world.",
+    "type": "github",
+    "bundle": "https://github.com/unbound-mod/icons/tree/main/packs/Iconsax",
+    "version": "1.0.0"
+}
