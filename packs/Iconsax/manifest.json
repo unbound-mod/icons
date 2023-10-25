@@ -1,6 +1,12 @@
 {
     "id": "rosie.iconsax",
     "name": "Iconsax",
+    "authors": [
+        {
+            "name": "Rosie<3",
+            "id": "581573474296791211"
+        }
+    ],
     "description": "Perfectly balanced and sleek icons, designed for the modern world.",
     "type": "github",
     "bundle": "https://github.com/unbound-mod/icons/tree/main/packs/Iconsax",

@@ -1,6 +1,12 @@
 {
     "id": "rosie.plumpy",
     "name": "Plumpy",
+    "authors": [
+        {
+            "name": "Rosie<3",
+            "id": "581573474296791211"
+        }
+    ],
     "description": "Fluffy, bubbly, plumpy!",
     "type": "github",
     "bundle": "https://github.com/unbound-mod/icons/tree/main/packs/Plumpy",
