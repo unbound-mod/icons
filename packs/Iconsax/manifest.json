@@ -10,5 +10,8 @@
     "description": "Perfectly balanced and sleek icons, designed for the modern world.",
     "type": "github",
     "bundle": "https://github.com/unbound-mod/icons/tree/main/packs/Iconsax",
+    "icon": {
+        "uri": "https://github.com/unbound-mod/icons/blob/main/packs/Iconsax/images/native/main_tabs/Discord@3x.png?raw=true"
+    },
     "version": "1.0.0"
 }
