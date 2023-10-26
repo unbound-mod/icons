@@ -11,7 +11,7 @@
     "type": "github",
     "bundle": "https://github.com/unbound-mod/icons/tree/main/packs/MaterialDesign3",
     "icon": {
-        "uri": "https://github.com/unbound-mod/icons/blob/main/packs/MaterialDesign3/images/native/icons/ic_mention_user.png?raw=true"
+        "uri": "https://github.com/unbound-mod/icons/blob/main/packs/MaterialDesign3/images/native/icons/ic_mention_24px.png?raw=true"
     },
     "version": "1.0.0"
 }
