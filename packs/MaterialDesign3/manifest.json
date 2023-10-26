@@ -1,0 +1,17 @@
+{
+    "id": "panniku.md3",
+    "name": "MaterialDesign3",
+    "authors": [
+        {
+            "name": "Panniku",
+            "id": "703634705152606318"
+        }
+    ],
+    "description": "Minimalistic icons that blend elegance with functionality.",
+    "type": "github",
+    "bundle": "https://github.com/unbound-mod/icons/tree/main/packs/MaterialDesign3",
+    "icon": {
+        "uri": "https://github.com/unbound-mod/icons/blob/main/packs/MaterialDesign3/images/native/icons/ic_mention_user.png?raw=true"
+    },
+    "version": "1.0.0"
+}
