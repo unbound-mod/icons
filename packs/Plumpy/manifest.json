@@ -17,7 +17,7 @@
     ],
     "description": "Fluffy, bubbly, plumpy!",
     "type": "github",
-    "bundle": "https://github.com/unbound-mod/icons/tree/main/packs/Plumpy",
+    "main": "https://github.com/unbound-mod/icons/tree/main/packs/Plumpy",
     "icon": {
         "uri": "https://github.com/unbound-mod/icons/blob/main/packs/Plumpy/modules/main_tabs_v2/native/images/tab-guilds@3x.png?raw=true"
     },
